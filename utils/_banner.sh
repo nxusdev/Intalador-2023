@@ -29,6 +29,6 @@ print_banner() {
   printf "██ ██████ ██ ██   ██ ██████ ██ ██ ██████  \n";
   printf "${NC}";
   printf "\n\n"
-  printf "Version 3.1 by Pablo Lira"
+  printf "Version 3.1 by Joao Max"
   printf "\n\n\n"
 }
